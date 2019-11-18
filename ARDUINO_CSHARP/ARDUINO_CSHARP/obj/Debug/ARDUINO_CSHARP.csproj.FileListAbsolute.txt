@@ -1,0 +1,9 @@
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\bin\Debug\ARDUINO_CSHARP.exe.config
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\bin\Debug\ARDUINO_CSHARP.exe
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\bin\Debug\ARDUINO_CSHARP.pdb
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\obj\Debug\ARDUINO_CSHARP.csprojResolveAssemblyReference.cache
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\obj\Debug\ARDUINO_CSHARP.Form1.resources
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\obj\Debug\ARDUINO_CSHARP.Properties.Resources.resources
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\obj\Debug\ARDUINO_CSHARP.csproj.GenerateResource.Cache
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\obj\Debug\ARDUINO_CSHARP.exe
+C:\Users\salov\Desktop\SRDU\ARDUINO_CSHARP\ARDUINO_CSHARP\obj\Debug\ARDUINO_CSHARP.pdb
